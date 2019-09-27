@@ -6,12 +6,12 @@
 * [Setup](#setup)
 
 ## General info
-This project is very popular game Tic-tac-toe. It's implement using Python, based on Flask.
+This project is very popular game Tic-tac-toe. It's implement using Python, based on Django.
 The game is automatically played by the program and hence, no user input is needed. 
 	
 ## Technologies
 Project is created with:
-* Flask freamwork
+* Django freamwork
 	
 ## Setup
 To run this project, install it locally using npm:
